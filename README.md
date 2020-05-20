@@ -1,2 +1,3 @@
 # RecyclerViewJSON
-Recycler view data in JSON
+Example of Recycler view data in JSON
+UI & clean cod
